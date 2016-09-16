@@ -1,0 +1,8 @@
+.QD{clear:both;margin:1em;line-height:1.6em !important;font-family:Verdana !important;color:#333 !important;}
+@import url(https://fonts.googleapis.com/css?family=Montserrat:700);
+.qT{font-family:Montserrat,Verdana !important;color:#3B687F;font-size:large !important;}
+.qT:not(:first-child){margin-top:3em !important;}
+.qS tr:not(:first-child):hover{background-color:#d3e9f2;}
+.qBT tr:first-child{border-bottom:1px solid #333 !important;}
+.qBB tr:last-child{border-bottom:1px solid #333 !important;}
+.qML{margin-left:3em;}
